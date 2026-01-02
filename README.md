@@ -1,6 +1,6 @@
 # Heart Failure Mortality Prediction 🏥 
 
-### 📊 View Full Project 
+### 📊 View Full Project [ https://github.com/nidhishrworks-rgb/Predicting-Mortality-of-Heart-Failure-Patients-/blob/main/README.md ]
 > **Note:** If the .ipynb notebook fails to render graphs, please refer to the PDF link above for full visualizations.
 
 ## 📝 Project Overview
