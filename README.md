@@ -27,8 +27,3 @@ This project uses Machine Learning to predict the survival probability of patien
 2. Ensure you have the `heart_rate_detection.csv` in the same folder.
 3. Open `Nidhish_Heart_Rate_Detection.ipynb` in Jupyter or VS Code and run all cells.
 > **Note:** If the .ipynb notebook fails to render graphs, please refer to the PDF link above for full visualizations.
-
-
-1. Clone the repository.
-2. Ensure you have the `heart_rate_detection.csv` in the same folder.
-3. Open `Nidhish_Heart_Rate_Detection.ipynb` in Jupyter or VS Code and run all cells.
